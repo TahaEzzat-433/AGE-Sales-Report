@@ -8,7 +8,7 @@ This project is an interactive Sales & Marketing Report that provides insights i
 
 **Customer Behavior Analysis** involves examining how customers interact with the company, identifying patterns in their behavior, and measuring the **retention rate** to understand customer loyalty and engagement.
 
-**Supplier & Inventory Analysis Dashboard**This specialized dashboard provides critical insights into supply chain health and supplier performance, ensuring optimal stock levels and procurement efficiency.📦 Supplier & Inventory Analysis Dashboard
+**Supplier & Inventory Analysis Dashboard**This specialized dashboard provides critical insights into supply chain health and supplier performance, ensuring optimal stock levels and procurement efficiency.
 
 **Interactive Filtering**: Filter by date, shipping method, order status,customer name,supplier name, and employees for dynamic analysis.
 
